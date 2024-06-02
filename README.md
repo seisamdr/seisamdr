@@ -1,19 +1,7 @@
 <h1 align="center">Hi 👋, I'm Seiryo Pramanda</h1>
 <h3 align="center">A passionate fullstack developer</h3>
 
-- 🔭 I’m currently working on [s](s)
-
-- 🌱 I’m currently learning **s**
-
-- 👯 I’m looking to collaborate on [s](s)
-
-- 🤝 I’m looking for help with [s](s)
-
 - 👨‍💻 All of my projects are available at [sss.com](sss.com)
-
-- 📝 I regularly write articles on [ds](ds)
-
-- 💬 Ask me about **s**
 
 - 📫 How to reach me **seiryobayu@gmail.com**
 
@@ -30,4 +18,3 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=seisamdr&show_icons=true&locale=en&layout=compact" alt="seisamdr" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=seisamdr&show_icons=true&locale=en" alt="seisamdr" /></p>
