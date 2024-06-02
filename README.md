@@ -20,6 +20,7 @@ I am a fullstack software engineer.
 <img align="left" alt="node.js" src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white" />
 <img align="left" alt="express" src="https://img.shields.io/badge/express.js%20-%23000000.svg?&style=for-the-badge&logo=express&logoColor=white" />
 <img align="left" alt="nestjs" src="https://img.shields.io/badge/nestjs%20-%23E0234E.svg?&style=for-the-badge&logo=nestjs&logoColor=white" />
+<img align="left" alt="postgresql" src="https://img.shields.io/badge/postgresql-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white" />
 
 <br>
 
