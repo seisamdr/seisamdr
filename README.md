@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **seiryobayu@gmail.com**
 
-- 📄 Know about my experiences [dddd](dddd)
+- 📄 Know about my experiences [https://bit.ly/3wZpI15](dddd)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
