@@ -1,5 +1,5 @@
 ### Hello World 👋
-I am a fullstack software engineer.
+I am a fullstack software developer.
 
 
 <!-- Personal Website: https://www.mdfaisal.com/ -->
